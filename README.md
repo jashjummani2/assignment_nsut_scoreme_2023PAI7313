@@ -1,0 +1,1 @@
+Here I have tried to extract a table out of the selected pdfs, where in output.csv/.xlsx gives output in the table format, where as one pdf is corrupted such that I was not able to extract the information out of it.
